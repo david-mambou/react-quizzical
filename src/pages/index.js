@@ -4,4 +4,3 @@ import App from '../components/App';
 import '../assets/style.css';
 
 ReactDOM.render(<App />, document.getElementById('root'));
-// console.log("Hello World");
