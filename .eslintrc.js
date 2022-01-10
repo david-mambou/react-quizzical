@@ -18,5 +18,8 @@ module.exports = {
     'react',
   ],
   rules: {
+    semi: "off",
+    quotes: "off",
+    "comma-dangle": "off"
   },
 };
